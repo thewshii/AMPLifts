@@ -36,8 +36,8 @@ Before running the app, you need to set up the following:
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone <YOUR_REPO_URL>
+   ```bash *ENTER IT ON THE CMD LINE*
+   git clone https://github.com/thewshii/AMPLifts.git
    cd ride-scheduling-app
 
    Use the python command to run file after entering your unique API KEYS.
