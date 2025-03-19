@@ -1,0 +1,5 @@
+googlemaps
+nylas
+rich
+prettytable
+python-dotenv
