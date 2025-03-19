@@ -40,6 +40,8 @@ Before running the app, you need to set up the following:
    git clone <YOUR_REPO_URL>
    cd ride-scheduling-app
 
+   Use the python command to run file after entering your unique API KEYS.
+
 2. Set up a virtual environment
 
 python3 -m venv venv
